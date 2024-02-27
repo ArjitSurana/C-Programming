@@ -1,5 +1,5 @@
 /* Implementation of simple command-line interface */
-
+#include <math.h>
 #include <ctype.h>
 #include <fcntl.h>
 #include <limits.h>
